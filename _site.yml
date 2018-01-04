@@ -2,7 +2,7 @@ navbar:
   left:
   - text: "Home"
     href: index.html
-- text: "Fun Pages"
+  - text: "Fun Pages"
     menu:
     - text: "page1"
       href: page1.html
