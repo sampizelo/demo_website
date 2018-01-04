@@ -4,10 +4,8 @@ navbar:
     href: index.html
 - text: "Fun Pages"
     menu:
-    - text: "Demo 1"
-     href: demo1.html
-    - text: "Demo 2"
-      href: demo2.html
+    - text: "page1"
+      href: page1.html
 output_dir: "."
 output:
   html_document:
